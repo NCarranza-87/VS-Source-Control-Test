@@ -10,8 +10,8 @@ namespace SourceControlTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console.WriteLine("What's good World!");
+            Console.ReadKey(); 
         }
     }
 }
